@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+#loading {
+  font-weight: bold;
+  font-size: 18px;
+  color: blue;
+  margin: 10px 0;
+}
